@@ -1,0 +1,8 @@
+search Monkeys title
+search Space type
+sort year
+search Drama genre
+sort title
+search qwerty director
+sort rate
+sort wasd

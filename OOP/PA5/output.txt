@@ -1,0 +1,47 @@
+title:string:single|director:string:single|year:integer:single|genre:string:multi|artist:string:multi|rate:double:single
+Exception: Duplicate entry
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.171111
+Exception: Duplicate entry
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.171111
+Exception: Missing field
+Cold Mountain|Anthony Minghella|2003|Adventure:Drama:History
+Exception: Duplicate entry
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.411111
+7 Unique entries
+search Monkeys title
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.171111
+search Space type
+Exception: Couldnt find the entry
+sort year
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.331111
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.411111
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.171111
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.351111
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.461111
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.391111
+filmx|ali can|2024||wasd|6.681111
+search Drama genre
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.351111
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.461111
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.411111
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.331111
+sort title
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.331111
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.391111
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.461111
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.351111
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.411111
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.171111
+filmx|ali can|2024||wasd|6.681111
+search qwerty director
+Exception: Couldnt find the entry
+sort rate
+filmx|ali can|2024||wasd|6.681111
+Perfume: The Story of a Murderer|Tom Tykwer|2006|Crime:Drama:Fantasy|Ben Whishaw:Dustin Hoffman:Alan Rickman|8.461111
+Twelve Monkeys|Terry Gilliam|1995|Mystery:Sci-Fi:Thriller|Bruce Willis:Madeleine Stowe:Brad Pitt|9.171111
+Forrest Gump|Robert Zemeckis|1994|Drama:Romance|Tom Hanks:Robin Wright:Gary Sinise|9.331111
+The Lord of the Rings: The Fellowship of the Ring|Peter Jackson|2001|Adventure:Drama:Fantasy|Elijah Wood:Ian McKellen:Orlando Bloom|9.351111
+Inception|Christopher Nolan|2010|Action:Adventure:Sci-Fi:Thriller|Leonardo DiCaprio:Joseph Gordon-Levitt:Elliot Page|9.391111
+The Shawshank Redemption|Frank Darabont|1994|Drama:Crime|Tim Robbins:Morgan Freeman:Bob Gunton|9.411111
+sort wasd
+Exception: Wrong parameter to sort

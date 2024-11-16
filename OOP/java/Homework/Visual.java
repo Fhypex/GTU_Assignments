@@ -1,0 +1,1 @@
+public interface Visual extends Info {}
